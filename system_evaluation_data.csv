@@ -1,0 +1,5 @@
+﻿Type,Input_Size,Time,Memory,Accuracy_Filter,Accuracy_Path
+Performance,5,0.10106839999934891,18.333984375,0.0,0.0
+Performance,10,0.20248670000000857,18.294921875,0.0,0.0
+Performance,15,0.25221289999899454,18.255859375,0.0,0.0
+Accuracy,0,0.0,0.0,100.0,75.0
